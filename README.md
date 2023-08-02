@@ -1,1 +1,1 @@
-# SimpleAlgorithms
+# Simple console algorithms
