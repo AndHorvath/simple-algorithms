@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remainder", "Remainder\Rema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{B7509DC7-AD59-4CEA-A98F-7F5C40571347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censor", "Censor\Censor.csproj", "{BE521ACF-0CC9-4AE7-AF32-AE2565360FB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Censor", "Censor\Censor.csproj", "{BE521ACF-0CC9-4AE7-AF32-AE2565360FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryMachine", "MemoryMachine\MemoryMachine.csproj", "{81FA7B94-2046-4A7B-B053-6436D13AC742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BE521ACF-0CC9-4AE7-AF32-AE2565360FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE521ACF-0CC9-4AE7-AF32-AE2565360FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE521ACF-0CC9-4AE7-AF32-AE2565360FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FA7B94-2046-4A7B-B053-6436D13AC742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FA7B94-2046-4A7B-B053-6436D13AC742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FA7B94-2046-4A7B-B053-6436D13AC742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FA7B94-2046-4A7B-B053-6436D13AC742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
