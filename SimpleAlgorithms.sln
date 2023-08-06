@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCounter", "PrimeCounter\PrimeCounter.csproj", "{7D5C4D83-51A0-4BD5-9C4D-450F17F1350D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4A9129CC-0476-46A1-B194-08EEF69140E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7D5C4D83-51A0-4BD5-9C4D-450F17F1350D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5C4D83-51A0-4BD5-9C4D-450F17F1350D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5C4D83-51A0-4BD5-9C4D-450F17F1350D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9129CC-0476-46A1-B194-08EEF69140E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9129CC-0476-46A1-B194-08EEF69140E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9129CC-0476-46A1-B194-08EEF69140E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9129CC-0476-46A1-B194-08EEF69140E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
